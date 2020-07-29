@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40c9f339-12ee-4ca9-a6b4-58faad0d88c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pagerenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/contact-us.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_navigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1595892722503</updated>
       <workItem from="1595892724802" duration="287000" />
-      <workItem from="1595893863165" duration="2676000" />
+      <workItem from="1595893863165" duration="3528000" />
+      <workItem from="1595934301930" duration="21250000" />
     </task>
     <servers />
   </component>
@@ -96,7 +97,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
