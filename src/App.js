@@ -4,21 +4,31 @@ import {BrowserRouter as Router,Switch,Route,Redirect} from "react-router-dom";
 import PageRenderer from "./pagerenderer";
 
 function App() {
+
+
+
+
     const user={
         firstName:"Djafer",
         lastName:"Abdelhadi"
     };
   return (
-      <Router>
-        <div className="App">
-          <Navigation user={user}/>
-          <Switch>
-            <Route path={"/:page"} component={PageRenderer}/>
-            <Route path={"/"} render={()=><Redirect to={"/home"}/>}/>
-            <Route component={()=>404}/>
-          </Switch>
-        </div>
-      </Router>
+      <div className="App"   >
+
+          <Router>
+              <Navigation user={user}/>
+
+
+              <Switch >
+                     <Route path={"/:page"} component={PageRenderer}/>
+                     <Route path={"/"} render={()=><Redirect to={"/home"}/>}/>
+                     <Route component={()=>404}/>
+              </Switch>
+
+          </Router>
+
+      </div>
+
 
   );
 }
