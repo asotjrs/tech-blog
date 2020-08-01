@@ -2,30 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40c9f339-12ee-4ca9-a6b4-58faad0d88c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/aws_world.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/cisco_world.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/cloud_world.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/deno_world.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/javascript_world.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/port_security.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/react_world.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/vlan_world.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/mocks/featured.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/mocks/trending.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_masonry-post.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_post-masonry.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/masonry-post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/post-masonry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/_post-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/_tag-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/post-grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/tag-row.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/_masonry-post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_masonry-post.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/masonry-post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/masonry-post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/scss" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -59,12 +46,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mahmoud\Desktop\tech-blog\src\components\common" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mahmoud\Desktop\tech-blog\src\assets\scss" />
       <recent name="C:\Users\mahmoud\Desktop\tech-blog\src" />
       <recent name="C:\Users\mahmoud\Desktop\tech-blog\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mahmoud\Desktop\tech-blog\src\components\common" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -109,7 +97,8 @@
       <workItem from="1595934301930" duration="41879000" />
       <workItem from="1596100140290" duration="9595000" />
       <workItem from="1596132308308" duration="4457000" />
-      <workItem from="1596189583510" duration="29536000" />
+      <workItem from="1596189583510" duration="30795000" />
+      <workItem from="1596276827339" duration="8480000" />
     </task>
     <servers />
   </component>
